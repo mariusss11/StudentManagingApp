@@ -20,5 +20,4 @@ public interface StudentRepository
     @Query("SELECT s FROM Student s WHERE s.email LIKE %:email%")
     List<Student> findStudentByEmailContaining(@Param("email")String email);
 
-
 }
