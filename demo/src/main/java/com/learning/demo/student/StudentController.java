@@ -67,13 +67,16 @@ public class StudentController {
         studentService.updateStudentByEmail(studentEmail,name, email);
     }
 
-    @GetMapping("/getStudentsByMailProvider/{mailProvider}")
+    @GetMapping("/getStudentsByMailProvider/{emailProvider}")
     public List<Student> getStudentsByMailProvider(@PathVariable String emailProvider){
         try {
             return studentService.getAllStudentsByMailProvider(emailProvider);
-        } catch (Exception e){
+        } catch (StudentNotFoundException e) {
+            throw new StudentNotFoundException(e.getMessage());
+        } /* catch (Exception e){
             throw new IllegalStateException();
         }
+        */
     }
 
 }
