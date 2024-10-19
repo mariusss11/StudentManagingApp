@@ -1,0 +1,6 @@
+com\learning\demo\repository\StudentRepositoryTests$UpdateTests.class
+com\learning\demo\repository\StudentRepositoryTests$DateTests.class
+com\learning\demo\repository\StudentRepositoryTests$EmailTests.class
+com\learning\demo\repository\StudentRepositoryTests$NameTests.class
+com\learning\demo\repository\StudentRepositoryTests.class
+com\learning\demo\DemoApplicationTests.class

@@ -1,0 +1,13 @@
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\DemoApplication.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\exception\BadRequestException.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\exception\DuplicateEmailException.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\exception\InvalidDataException.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\exception\SameEmailUpdateException.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\exception\StudentException.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\exception\StudentExceptionHandler.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\exception\StudentNotFoundException.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\student\Student.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\student\StudentConfig.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\student\StudentController.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\student\StudentRepository.java
+C:\Informatie\Marius\Programming\java\SpringBoot\demo\src\main\java\com\learning\demo\student\StudentService.java
